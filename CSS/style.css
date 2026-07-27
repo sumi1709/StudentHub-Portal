@@ -272,3 +272,18 @@ header{
     object-fit:cover;
     margin:20px auto;
 }
+
+#banner{
+    background-color:#1565C0;
+    color:white;
+    padding:10px;
+    text-align:center;
+}
+
+#banner button{
+    float:right;
+    background:none;
+    border:none;
+    color:white;
+    cursor:pointer;
+}
