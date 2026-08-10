@@ -11,17 +11,24 @@
         <img src="images/logo.png" alt="StudentHub Logo" class="logo">
         <h1>Studenthub Login</h1>
 
-        <form>
+        <form onsubmit="return validateLogin()">
 
-<label>Username</label><br>
-<input type="text"><br><br>
+    <label>Username:</label>
+    <input type="text" id="name" required>
 
-<label>Password</label><br>
-<input type="password"><br><br>
+    <br><br>
 
-<a href="dashboard.html">
-    <button type="button">Login</button>
-</a>
+    <label>Email:</label>
+    <input type="email" id="email" required>
+
+    <br><br>
+
+    <label>Password:</label>
+    <input type="password" id="password" required>
+
+    <br><br>
+
+    <input type="submit" value="Login">
 
 </form>
 
