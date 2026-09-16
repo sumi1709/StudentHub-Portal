@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Hackathon",
+        "category": "Technical",
+        "date": "05-09-2026"
+    },
+    {
+        "name": "Basketball Tournament",
+        "category": "Sports",
+        "date": "08-09-2026"
+    },
+    {
+        "name": "Freshers Party",
+        "category": "Cultural",
+        "date": "12-09-2026"
+    },
+    {
+        "name": "Web Development Workshop",
+        "category": "Technical",
+        "date": "18-09-2026"
+    },
+    {
+        "name": "Cricket Match",
+        "category": "Sports",
+        "date": "22-09-2026"
+    },
+    {
+        "name": "Singing Competition",
+        "category": "Cultural",
+        "date": "28-09-2026"
+    }
+]
