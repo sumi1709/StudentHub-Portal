@@ -1,32 +1,244 @@
 [
-    {
-        "name": "Hackathon",
-        "category": "Technical",
-        "date": "05-09-2026"
-    },
-    {
-        "name": "Basketball Tournament",
-        "category": "Sports",
-        "date": "08-09-2026"
-    },
-    {
-        "name": "Freshers Party",
-        "category": "Cultural",
-        "date": "12-09-2026"
-    },
-    {
-        "name": "Web Development Workshop",
-        "category": "Technical",
-        "date": "18-09-2026"
-    },
-    {
-        "name": "Cricket Match",
-        "category": "Sports",
-        "date": "22-09-2026"
-    },
-    {
-        "name": "Singing Competition",
-        "category": "Cultural",
-        "date": "28-09-2026"
-    }
+  {
+    "id": 1,
+    "title": "Tech Fest 2026",
+    "category": "Technical",
+    "date": "2026-01-15",
+    "location": "Main Auditorium",
+    "description": "Annual technology exhibition and coding competitions."
+  },
+  {
+    "id": 2,
+    "title": "Hackathon Challenge",
+    "category": "Technical",
+    "date": "2026-01-20",
+    "location": "Computer Lab",
+    "description": "24-hour coding challenge for innovative solutions."
+  },
+  {
+    "id": 3,
+    "title": "AI Workshop",
+    "category": "Technical",
+    "date": "2026-02-05",
+    "location": "Seminar Hall",
+    "description": "Introduction to Artificial Intelligence and Machine Learning."
+  },
+  {
+    "id": 4,
+    "title": "Web Development Bootcamp",
+    "category": "Technical",
+    "date": "2026-02-18",
+    "location": "IT Block",
+    "description": "Hands-on training in HTML, CSS, JavaScript, and React."
+  },
+  {
+    "id": 5,
+    "title": "Cyber Security Seminar",
+    "category": "Technical",
+    "date": "2026-03-02",
+    "location": "Lecture Hall A",
+    "description": "Learn about digital security and ethical hacking."
+  },
+  {
+    "id": 6,
+    "title": "Robotics Competition",
+    "category": "Technical",
+    "date": "2026-03-15",
+    "location": "Engineering Block",
+    "description": "Showcase innovative robots built by students."
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Development Workshop",
+    "category": "Technical",
+    "date": "2026-03-25",
+    "location": "Computer Lab",
+    "description": "Create Android apps using modern frameworks."
+  },
+  {
+    "id": 8,
+    "title": "Cloud Computing Conference",
+    "category": "Technical",
+    "date": "2026-04-10",
+    "location": "Conference Hall",
+    "description": "Industry experts discuss cloud technologies."
+  },
+  {
+    "id": 9,
+    "title": "Data Science Summit",
+    "category": "Technical",
+    "date": "2026-04-20",
+    "location": "Innovation Center",
+    "description": "Explore data analytics and visualization tools."
+  },
+  {
+    "id": 10,
+    "title": "Programming Quiz",
+    "category": "Technical",
+    "date": "2026-05-01",
+    "location": "Lab 3",
+    "description": "Competitive programming and debugging contest."
+  },
+
+  {
+    "id": 11,
+    "title": "Cricket Tournament",
+    "category": "Sports",
+    "date": "2026-05-15",
+    "location": "Cricket Ground",
+    "description": "Inter-department cricket championship."
+  },
+  {
+    "id": 12,
+    "title": "Football League",
+    "category": "Sports",
+    "date": "2026-05-25",
+    "location": "Football Field",
+    "description": "Annual football competition among students."
+  },
+  {
+    "id": 13,
+    "title": "Basketball Championship",
+    "category": "Sports",
+    "date": "2026-06-05",
+    "location": "Indoor Stadium",
+    "description": "Competitive basketball matches."
+  },
+  {
+    "id": 14,
+    "title": "Badminton Tournament",
+    "category": "Sports",
+    "date": "2026-06-15",
+    "location": "Sports Complex",
+    "description": "Singles and doubles badminton events."
+  },
+  {
+    "id": 15,
+    "title": "Athletics Meet",
+    "category": "Sports",
+    "date": "2026-07-01",
+    "location": "Athletics Track",
+    "description": "Track and field events for students."
+  },
+  {
+    "id": 16,
+    "title": "Table Tennis Competition",
+    "category": "Sports",
+    "date": "2026-07-12",
+    "location": "Indoor Sports Hall",
+    "description": "Table tennis tournament for all years."
+  },
+  {
+    "id": 17,
+    "title": "Volleyball Cup",
+    "category": "Sports",
+    "date": "2026-07-25",
+    "location": "Volleyball Court",
+    "description": "Exciting inter-department volleyball matches."
+  },
+  {
+    "id": 18,
+    "title": "Chess Championship",
+    "category": "Sports",
+    "date": "2026-08-05",
+    "location": "Student Center",
+    "description": "Strategic chess competition."
+  },
+  {
+    "id": 19,
+    "title": "Swimming Competition",
+    "category": "Sports",
+    "date": "2026-08-18",
+    "location": "Aquatic Center",
+    "description": "Freestyle and relay swimming races."
+  },
+  {
+    "id": 20,
+    "title": "Marathon Run",
+    "category": "Sports",
+    "date": "2026-09-01",
+    "location": "College Campus",
+    "description": "5 km and 10 km marathon events."
+  },
+
+  {
+    "id": 21,
+    "title": "Cultural Night",
+    "category": "Cultural",
+    "date": "2026-09-15",
+    "location": "Open Air Theatre",
+    "description": "Dance, drama, and music performances."
+  },
+  {
+    "id": 22,
+    "title": "Music Festival",
+    "category": "Cultural",
+    "date": "2026-09-25",
+    "location": "Main Stage",
+    "description": "Live performances by student bands."
+  },
+  {
+    "id": 23,
+    "title": "Dance Competition",
+    "category": "Cultural",
+    "date": "2026-10-05",
+    "location": "Auditorium",
+    "description": "Solo and group dance performances."
+  },
+  {
+    "id": 24,
+    "title": "Drama Festival",
+    "category": "Cultural",
+    "date": "2026-10-15",
+    "location": "Theatre Hall",
+    "description": "Student-written and directed plays."
+  },
+  {
+    "id": 25,
+    "title": "Art Exhibition",
+    "category": "Cultural",
+    "date": "2026-10-25",
+    "location": "Art Gallery",
+    "description": "Display of student paintings and artwork."
+  },
+  {
+    "id": 26,
+    "title": "Photography Contest",
+    "category": "Cultural",
+    "date": "2026-11-05",
+    "location": "Exhibition Hall",
+    "description": "Creative photography competition."
+  },
+  {
+    "id": 27,
+    "title": "Talent Show",
+    "category": "Cultural",
+    "date": "2026-11-15",
+    "location": "Main Auditorium",
+    "description": "Students showcase unique talents."
+  },
+  {
+    "id": 28,
+    "title": "Fashion Show",
+    "category": "Cultural",
+    "date": "2026-11-25",
+    "location": "Convention Hall",
+    "description": "Fashion and design showcase."
+  },
+  {
+    "id": 29,
+    "title": "Poetry Recital",
+    "category": "Cultural",
+    "date": "2026-12-05",
+    "location": "Library Hall",
+    "description": "Students present original poetry."
+  },
+  {
+    "id": 30,
+    "title": "Annual Cultural Fest",
+    "category": "Cultural",
+    "date": "2026-12-20",
+    "location": "College Grounds",
+    "description": "Grand celebration of arts, music, and culture."
+  }
 ]
